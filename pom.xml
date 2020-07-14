@@ -3,7 +3,6 @@
   <groupId>br.ce.wcaquino.tasks</groupId>
   <artifactId>functional-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
   <build>
 	<plugins>
 		<plugin>
